@@ -45,7 +45,7 @@ class Home extends Component {
               ></iframe>
             </div>
 
-            <div className="text-content">
+            <div className="text-content">    
               <h3 className="content-title">
                 • Framing Moments: Your Trusted Photography Business
               </h3>
