@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.479c7a2e.css",
+    "main.js": "/static/js/main.467479f3.js",
+    "static/media/ms-logo1.png": "/static/media/ms-logo1.aa4df9a41d50c7756d51.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.479c7a2e.css",
+    "static/js/main.467479f3.js"
+  ]
+}
